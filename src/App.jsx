@@ -33,7 +33,6 @@ function App() {
 
   return (
     <>
-      <Header />
       <div className={`min-h-screen w-full flex flex-col items-center justify-center bg-gradient-to-br ${gradient} transition-all duration-1000`}>
         <div className='text-center py-10 space-y-4 px-4'>
           <h2 className='text-3xl font-bold text-white'>Convert Any Currency Instantly with Real-Time Rates</h2>
