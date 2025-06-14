@@ -1,12 +1,40 @@
-# React + Vite
+🌍Currency Converter - ReactJS
+A responsive and real-time currency converter built with **ReactJS**, styled using **Tailwind CSS**, and powered by the [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+- Swap between any two currencies
+- Real-time conversion rates
+- Smart UI updates with React state
+- Animated gradient background
+- Glassmorphism-styled card layout
+- Fully responsive and mobile-friendly
 
-Currently, two official plugins are available:
+Tech Stack
+- **ReactJS + Vite**
+- **Tailwind CSS**
+- **JavaScript (ES6)**
+- **Currency API (by @fawazahmed0)**
+- **Deployed via GitHub Pages**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Installation & Setup
+To run the project locally:
 
-## Expanding the ESLint configuration
+```bash
+git clone https://github.com/your-username/currency-converter.git
+cd currency-converter
+npm install
+npm run dev
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Live Site
+[View Live](https://abids-code.github.io/react-currency-converter/).
+
+Learnings
+This project was built following the 11th video of the Chai aur React playlist by Hitesh Choudhary.
+✅ Fixed bugs on currency switching
+✅ Enhanced UI using animation and gradients
+✅ Learned React state management and custom hooks
+
+About Me
+Mohammad Hossain Abid
+[Connect on LinkedIn](https://www.linkedin.com/in/abidsthings/)
